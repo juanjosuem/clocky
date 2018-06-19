@@ -12,7 +12,7 @@ class Clock extends React.Component {
 
   constructor() {
     super();
-    console.log('construcrooooorrrr');
+    console.log('construcrooooorrrrr');
   }
 
   componentDidMount() {
