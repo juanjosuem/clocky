@@ -1,2 +1,0 @@
-# clocky
-Created with CodeSandbox
